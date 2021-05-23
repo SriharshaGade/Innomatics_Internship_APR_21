@@ -6,8 +6,8 @@ Task 3 - Math Problems on Python Programming in Hackerrank.<br />
 Task 4 - Strings Problems on Python Programming in Hackerrank.<br />
 Task 5 - Regex and Parsing on Python Programming in Hackerrank.<br />
 Task 6 - Numpy Problems on Python Programming in Hackerrank.<br />
-Task 7 - Notebook explaining topics lernt in Descriptive Statistics <br />
+Task 7 - Notebook explaining topics learnt in Descriptive Statistics <br />
 Task 8 - Problems of Statistics on Python Programming in Hackerrank. <br />
 Task 9 - Hypothesis Testing<br />
-Task 10 - Univariant and Bivariat anlayis Notebook.<br />
+Task 10 - Univariant and Bivariat analysis Notebook.<br />
 # Innomatics_Internship_APR_21
